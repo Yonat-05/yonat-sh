@@ -1,6 +1,6 @@
 # yonat-sh
 A custom, dependency-free Unix shell written in C.
-To compile: gcc shell.c linenoise.c -o shell
+To compile: gcc yonat-sh.c linenoise.c -o yonat-sh
 
 Currently doesn't support the following:
 - tab autocomplete
